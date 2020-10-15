@@ -17,11 +17,11 @@
 </ul>
 <h3>Project Documents</h3>
 <ul>
-  <li><a href="https://github.com/arifrahmanca/Smart_Employee_Management_System/blob/main/Documentations/Project_Proposal.pdf" target="blank">Project Proposal</a></li>
-  <li><a href="https://github.com/arifrahmanca/Smart_Employee_Management_System/blob/main/Documentations/EECS_4314_Pentad_X5_Presentation.pdf" target="_blank">Slide Presentation</a></li>
+  <li><a href="https://github.com/arifrahmanca/Smart_Employee_Management_System/blob/main/Documentations/Project_Proposal.pdf">Project Proposal</a></li>
+  <li><a href="https://github.com/arifrahmanca/Smart_Employee_Management_System/blob/main/Documentations/EECS_4314_Pentad_X5_Presentation.pdf">Slide Presentation</a></li>
 </ul>
 <h3>Related Links</h3>
 <ul>
-  <li><a href="http://pentad-x5.unaux.com/" target="_blank">Pentad-X5 Website</a></li>
-  <li><a href="https://drive.google.com/file/d/16kpOCEQ6O5p_fWcYAQs6VrRDfTHlB1Pp/view" target="_blank">Vedio Presentation</a></li>
+  <li><a href="http://pentad-x5.unaux.com/">Pentad-X5 Website</a></li>
+  <li><a href="https://drive.google.com/file/d/16kpOCEQ6O5p_fWcYAQs6VrRDfTHlB1Pp/view">Vedio Presentation</a></li>
 </ul>
