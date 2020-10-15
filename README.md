@@ -17,7 +17,7 @@
 </ul>
 <h3>Project Documents</h3>
 <ul>
-  <li><a href="https://github.com/arifrahmanca/Smart_Employee_Management_System/blob/main/Documentations/Project_Proposal.pdf">Project Proposal</a></li>
+  <li><a href="https://github.com/arifrahmanca/Smart_Employee_Management_System/blob/main/Documentations/Project_Proposal.pdf", target="new">Project Proposal</a></li>
   <li><a href="https://github.com/arifrahmanca/Smart_Employee_Management_System/blob/main/Documentations/EECS_4314_Pentad_X5_Presentation.pdf">Slide Presentation</a></li>
 </ul>
 <h3>Related Links</h3>
