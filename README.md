@@ -25,5 +25,5 @@
 <ul>
   <li><a href="http://pentad-x5.unaux.com/">Pentad-X5 Website</a></li>
   <li><a href="https://drive.google.com/file/d/16kpOCEQ6O5p_fWcYAQs6VrRDfTHlB1Pp/view">Vedio Presentation of Project Proposal</a></li>
-  <li><a href="https://www.youtube.com/embed/XK9IIYWnpIo">Vedio Presentation of Conceptual Architectur</a></li>
+  <li><a href="https://www.youtube.com/embed/XK9IIYWnpIo">Vedio Presentation of Conceptual Architecture</a></li>
 </ul>
