@@ -19,7 +19,9 @@
 <ul>
   <li><a href="https://github.com/arifrahmanca/Smart_Employee_Management_System/blob/main/Documentations/Project_Proposal.pdf">Project Proposal</a></li>
   <li><a href="https://github.com/arifrahmanca/Smart_Employee_Management_System/blob/main/Documentations/EECS_4314_Pentad_X5_Presentation.pdf">Slide Presentation of Project Proposal</a></li>
-  <li><a href="https://github.com/arifrahmanca/Smart_Employee_Management_System/blob/main/Documentations/EECS_4314_PentadX5_A2.pdf">Conceptual Architecture Presentation Slides</a></li>
+  <li><a href="https://github.com/arifrahmanca/Smart_Employee_Management_System/blob/main/Documentations/EECS_4314_PentadX5_A2.pdf">Conceptual Architecture Presentation Slides</a>
+  <li><a href="https://github.com/arifrahmanca/Smart_Employee_Management_System/blob/main/Documentations/EECS_4314_ASSIGNMENT2_REPORT.pdf">Assignment 2 Report</a>
+  </li>
 </ul>
 <h3>Related Links</h3>
 <ul>
