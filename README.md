@@ -18,7 +18,7 @@
 <h3>Project Documents</h3>
 <ul>
   <li><a href="https://github.com/arifrahmanca/Smart_Employee_Management_System/blob/main/Documentations/Project_Proposal.pdf">Assignment 1 Report : Project Proposal</a></li>
-  <li><a href="https://github.com/arifrahmanca/Smart_Employee_Management_System/blob/main/Documentations/EECS_4314_Pentad_X5_Presentation.pdf">Slide Presentation of Project Proposal</a></li>
+  <li><a href="https://github.com/arifrahmanca/Smart_Employee_Management_System/blob/main/Documentations/EECS_4314_Pentad_X5_Presentation.pdf">Presentation of Project Proposal</a></li>
   <li><a href="https://github.com/arifrahmanca/Smart_Employee_Management_System/blob/main/Documentations/EECS_4314_PentadX5_A2.pdf">Presentation of Conceptual Architecture</a></li>
   <li><a href="https://github.com/arifrahmanca/Smart_Employee_Management_System/blob/main/Documentations/EECS_4314_ASSIGNMENT2_REPORT.pdf">Assignment 2 Report : Conceptual Architecture</a></li>
   <li><a href="https://github.com/arifrahmanca/Smart_Employee_Management_System/blob/main/Documentations/Pentad-X5 Assignment 3 - Report Document.pdf">Assignment 3 Report : Concrete Architecture</a></li>
