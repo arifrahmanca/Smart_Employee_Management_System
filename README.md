@@ -22,8 +22,7 @@
   <li><a href="https://github.com/arifrahmanca/Smart_Employee_Management_System/blob/main/Documentations/EECS_4314_ASSIGNMENT2_REPORT.pdf">Assignment 2 Report : Conceptual Architecture</a></li>
   <li><a href="https://github.com/arifrahmanca/Smart_Employee_Management_System/blob/main/Documentations/EECS_4314_PentadX5_A2.pdf">Presentation of Conceptual Architecture</a></li>
   <li><a href="https://github.com/arifrahmanca/Smart_Employee_Management_System/blob/main/Documentations/Pentad-X5 Assignment 3 - Report Document.pdf">Assignment 3 Report : Concrete Architecture</a></li>
-  <li><a href="https://github.com/arifrahmanca/Smart_Employee_Management_System/blob/main/Documentations/EECS_4314_PentadX5_A3.pdf">Presentation of Concrete Architecture</a></li>
-Proposed Enhancement</a></li>
+  <li><a href="https://github.com/arifrahmanca/Smart_Employee_Management_System/blob/main/Documentations/EECS_4314_PentadX5_A3.pdf">Presentation of Concrete Architecture</a></li></a></li>
   <li><a href="https://github.com/arifrahmanca/Smart_Employee_Management_System/blob/main/Documentations/EECS_4315_PentadX5_Assignment4_Presentaion.pdf">Presentation of the Enhanced Architecture</a></li>
 </ul>
 <h3>Related Links</h3>
