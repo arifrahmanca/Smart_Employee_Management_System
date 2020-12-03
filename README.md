@@ -30,8 +30,8 @@
 <ul>
   <li><a href="http://pentad-x5.unaux.com/">Pentad-X5 Website</a></li>
   <li><a href="https://github.com/KarmitP98/Employee-Managment" target="_blank">Source Codes</a></li>
-  <li><a href="https://drive.google.com/file/d/16kpOCEQ6O5p_fWcYAQs6VrRDfTHlB1Pp/view">Vedio Presentation of Project Proposal</a></li>
-  <li><a href="https://www.youtube.com/embed/XK9IIYWnpIo">Vedio Presentation of Conceptual Architecture</a></li>
-  <li><a href="https://www.youtube.com/embed/kAwCXQfzhJE">Vedio Presentation of Concrete Architecture</a></li>
-  <li><a href="https://www.youtube.com/embed/9Osi23CBPh4">Vedio Presentation of Enhanced Architecture</a></li>
+  <li><a href="https://drive.google.com/file/d/16kpOCEQ6O5p_fWcYAQs6VrRDfTHlB1Pp/view" target="_blank">Vedio Presentation of Project Proposal</a></li>
+  <li><a href="https://www.youtube.com/embed/XK9IIYWnpIo" target="_blank">Vedio Presentation of Conceptual Architecture</a></li>
+  <li><a href="https://www.youtube.com/embed/kAwCXQfzhJE" target="_blank">Vedio Presentation of Concrete Architecture</a></li>
+  <li><a href="https://www.youtube.com/embed/9Osi23CBPh4" target="_blank">Vedio Presentation of Enhanced Architecture</a></li>
 </ul>
