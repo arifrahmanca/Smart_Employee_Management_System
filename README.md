@@ -33,4 +33,5 @@
   <li><a href="https://drive.google.com/file/d/16kpOCEQ6O5p_fWcYAQs6VrRDfTHlB1Pp/view">Vedio Presentation of Project Proposal</a></li>
   <li><a href="https://www.youtube.com/embed/XK9IIYWnpIo">Vedio Presentation of Conceptual Architecture</a></li>
   <li><a href="https://www.youtube.com/embed/kAwCXQfzhJE">Vedio Presentation of Concrete Architecture</a></li>
+  <li><a href="https://www.youtube.com/embed/9Osi23CBPh4">Vedio Presentation of Enhanced Architecture</a></li>
 </ul>
