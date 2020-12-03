@@ -24,6 +24,7 @@
   <li><a href="https://github.com/arifrahmanca/Smart_Employee_Management_System/blob/main/Documentations/Pentad-X5 Assignment 3 - Report Document.pdf">Assignment 3 Report : Concrete Architecture</a></li>
   <li><a href="https://github.com/arifrahmanca/Smart_Employee_Management_System/blob/main/Documentations/EECS_4314_PentadX5_A3.pdf">Presentation of Concrete Architecture</a></li></a></li>
   <li><a href="https://github.com/arifrahmanca/Smart_Employee_Management_System/blob/main/Documentations/EECS_4315_PentadX5_Assignment4_Presentaion.pdf">Presentation of the Enhanced Architecture</a></li>
+  <li><a href="https://github.com/arifrahmanca/Smart_Employee_Management_System/blob/main/Documentations/Pentad-X5-Assingment4-Report.pdf">Assignment 4 Report : Enhanced Architecture (Self-healing loop)</a></li>
 </ul>
 <h3>Related Links</h3>
 <ul>
